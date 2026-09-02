@@ -2,6 +2,6 @@
 
 ☁️ AWS Cloud Engineer @ BCA
 
-🌐 More about me at [paulciurean.com](https://paulciurean.com)
+<a href="https://paulciurean.com" target="_blank">More about me</a>
 
 Always learning. Always building. 🚀
